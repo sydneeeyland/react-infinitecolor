@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sydneeeyland/react-infinitecolor/static/css/main.f38c7611.css",
+    "main.js": "/sydneeeyland/react-infinitecolor/static/js/main.524cc175.js",
+    "index.html": "/sydneeeyland/react-infinitecolor/index.html",
+    "main.f38c7611.css.map": "/sydneeeyland/react-infinitecolor/static/css/main.f38c7611.css.map",
+    "main.524cc175.js.map": "/sydneeeyland/react-infinitecolor/static/js/main.524cc175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38c7611.css",
+    "static/js/main.524cc175.js"
+  ]
+}
